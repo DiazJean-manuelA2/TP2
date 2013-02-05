@@ -18,6 +18,7 @@
 	float: left;
 	width: 100%;
 	background: #ffffff;
+	text-decoration : underline;
 }
 
 #navigation ul
@@ -60,6 +61,7 @@
 	background-clip: padding-box;
 	opacity: 0.83;
 	background : #ffffff;
+	font-style: italic;
 	
 }
 
@@ -89,6 +91,7 @@
 	background-clip: padding-box;
 	opacity: 0.83;
 	background : #ffffff;
+	
 }
 
 #footer
