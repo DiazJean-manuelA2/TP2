@@ -1,12 +1,12 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #ADD8E6 ;
 }
 
 #header
 {
-	background: #ccc;
+	background: #F0F8FF;
 	padding: 20px;
 }
 
@@ -16,7 +16,7 @@
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #ffffff;
 }
 
 #navigation ul
@@ -58,6 +58,7 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	background : #ffffff;
 }
 
 #edito h2
@@ -65,6 +66,7 @@
 	color: #000;
 	font-size: 160%;
 	margin: 0 0 .5em;
+	background : #ffffff;
 }
 
 #news
@@ -83,12 +85,13 @@
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
 	opacity: 0.83;
+	background : #ffffff;
 }
 
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #F0F8FF;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
